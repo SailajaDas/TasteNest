@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "e7b4",
+      "username": "Pinky",
+      "email": "pinky@123",
+      "password": "123",
+      "gender": "female",
+      "phone": "8260599390",
+      "dob": "2025-06-11",
+      "image": ""
+    }
+  ]
+}
